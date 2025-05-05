@@ -1,4 +1,4 @@
-#AI Chatbot using moondream LLM model
+# AI Chatbot using moondream LLM model
 
 A terminal-based AI chatbot implementation using the Moondream LLM model through Ollama. 
 
