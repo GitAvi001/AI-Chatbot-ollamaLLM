@@ -1,7 +1,12 @@
-# AI-Chatbot-ollamaLLM
-# Moondream AI Chatbot
+#AI Chatbot using moondream LLM model
 
-A terminal-based AI chatbot implementation using the Moondream LLM model through Ollama. This chatbot can understand and respond to text prompts while also having the capability to perceive and analyze images.
+A terminal-based AI chatbot implementation using the Moondream LLM model through Ollama. 
+
+This chatbot can understand and respond to text prompts while also having the capability to perceive and analyze images.
+
+Moondream is a lightweight, multimodal vision-language model designed to process both images and text, making it capable of tasks like image captioning and visual question answering. Ollama is a platform that allows to easily run, manage, and interact with various open-source AI models-including Moondream-locally on your own machine, without the need for cloud services or subscriptions.
+
+Moondream is available as a downloadable model within the Ollama library. moondream can pulled from ollama library using a simple terminal command.
 
 ## Prerequisites
 
